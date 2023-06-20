@@ -1,0 +1,17 @@
+{
+  "name": "ngro-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": ". ./script.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ngrok": "^5.0.0-beta.2",
+    "npx": "^10.2.2"
+  }
+}
